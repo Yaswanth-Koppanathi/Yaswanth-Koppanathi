@@ -14,7 +14,7 @@ Hey there! I'm Yaswanth, a 3rd-year CSE(AI & ML) Student at Mohan Babu Universit
 ### Connect with Me:
 
 - Email: yaswanthkoppanathi24@gmail.com
-- LinkedIn: https://www.linkedin.com/in/yaswanth-koppanathi/
+- LinkedIn: https://www.linkedin.com/in/yaswanth-koppanathi-ai/
 
 ### Feedback Welcome :
 - I'm still learning and growing as a developer, so I always welcome constructive feedback and suggestions. Feel free to reach out to me on any platform above, and let's connect!
