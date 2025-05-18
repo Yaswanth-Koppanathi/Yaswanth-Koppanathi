@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yaswanth Koppanathi
 
 ## 💡 About Me  
-Hey there! I'm **Yaswanth**, a 🎓 3rd-year **CSE (AI & ML)** student at **Mohan Babu University**, passionate about 🌐 learning new technologies and 🛠 crafting innovative solutions.  
+Hey there! I'm **Yaswanth**, a 🎓 Final-year **CSE (AI & ML)** student at **Mohan Babu University**, passionate about 🌐 learning new technologies and 🛠 crafting innovative solutions.  
 This README is my 🧩 playground to showcase my journey, skills, and aspirations. Let’s dive in! 🚀  
 
 ---
